@@ -32,7 +32,7 @@
     "cors": "^2.8.5",
     "edge-server-tools": "^0.2.18",
     "express": "^4.18.2",
-    "luxon": "^3.2.1",
+    "luxon": "^3.3.0",
     "nano": "^10.1.2",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
