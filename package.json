@@ -43,7 +43,7 @@
     "react-json-view": "^1.21.3",
     "react-loader-spinner": "^5.3.4",
     "react-router-dom": "^5.3.4",
-    "react-timezone-select": "^1.4.0",
+    "react-timezone-select": "^1.5.4",
     "styled-components": "^5.3.6",
     "yarn": "^1.22.19"
   },
