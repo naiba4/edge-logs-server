@@ -1644,10 +1644,15 @@ cleaner-config@^0.1.9:
     minimist "^1.2.5"
     sucrase "^3.17.1"
 
-cleaners@^0.3.11, cleaners@^0.3.13, cleaners@^0.3.8:
+cleaners@^0.3.11, cleaners@^0.3.8:
   version "0.3.13"
   resolved "https://registry.yarnpkg.com/cleaners/-/cleaners-0.3.13.tgz#de9954f8c4ef01fcb54e41a8510f48059815b3e8"
   integrity sha512-sCedc8LIXUhLmXT9rkkAToi9mjYhI7J/gKRWiF0Qw6eC0ymILHxq+vhuaKoKdcSWpYi2YqqwSlvNtD+92gf4pA==
+
+cleaners@^0.3.14:
+  version "0.3.16"
+  resolved "https://registry.yarnpkg.com/cleaners/-/cleaners-0.3.16.tgz#d3a7ab936cb78b0d6ac19ba87b2d28ec41f30502"
+  integrity sha512-Ecu8Fwv3wT7GV44K4Zas2CQJI11ZV/yPwoh8Gg9BSV6rAmhNsqFeWceA1RII1czbarFSG3XClUePrpI806OvRw==
 
 cli-cursor@^3.1.0:
   version "3.1.0"
