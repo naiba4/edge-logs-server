@@ -72,7 +72,7 @@
     "parcel": "^2.8.3",
     "prettier": "^2.8.4",
     "process": "^0.11.10",
-    "sucrase": "^3.20.0",
+    "sucrase": "^3.35.0",
     "typescript": "^4.9.5"
   }
 }
