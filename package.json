@@ -30,7 +30,7 @@
     "cleaners": "^0.3.13",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
-    "edge-server-tools": "^0.2.18",
+    "edge-server-tools": "^0.2.19",
     "express": "^4.18.2",
     "luxon": "^3.2.1",
     "nano": "^10.1.2",
