@@ -56,7 +56,7 @@
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
     "chai": "^4.3.4",
-    "eslint": "^8.34.0",
+    "eslint": "^9.0.0",
     "eslint-config-standard-kit": "^0.15.1",
     "eslint-plugin-import": ">=2.18.0",
     "eslint-plugin-node": ">=9.1.0",
@@ -72,7 +72,7 @@
     "parcel": "^2.8.3",
     "prettier": "^2.8.4",
     "process": "^0.11.10",
-    "sucrase": "^3.20.0",
+    "sucrase": "^3.35.0",
     "typescript": "^4.9.5"
   }
 }
