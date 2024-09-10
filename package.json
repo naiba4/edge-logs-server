@@ -42,7 +42,7 @@
     "react-dom": "^18.2.0",
     "react-json-view": "^1.21.3",
     "react-loader-spinner": "^5.3.4",
-    "react-router-dom": "^5.3.4",
+    "react-router-dom": "^6.0.0",
     "react-timezone-select": "^1.4.0",
     "styled-components": "^5.3.6",
     "yarn": "^1.22.19"
