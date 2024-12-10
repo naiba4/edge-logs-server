@@ -31,7 +31,7 @@
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "edge-server-tools": "^0.2.18",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "luxon": "^3.2.1",
     "nano": "^10.1.2",
     "prop-types": "^15.8.1",
