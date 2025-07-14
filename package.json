@@ -30,7 +30,7 @@
     "cleaners": "^0.3.13",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
-    "edge-server-tools": "^0.2.18",
+    "edge-server-tools": "^0.2.19",
     "express": "^4.18.2",
     "luxon": "^3.2.1",
     "nano": "^10.1.2",
@@ -56,7 +56,7 @@
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
     "chai": "^4.3.4",
-    "eslint": "^8.34.0",
+    "eslint": "^9.0.0",
     "eslint-config-standard-kit": "^0.15.1",
     "eslint-plugin-import": ">=2.18.0",
     "eslint-plugin-node": ">=9.1.0",
@@ -67,12 +67,12 @@
     "eslint-plugin-standard": ">=4.0.0",
     "husky": ">=3.0.0",
     "lint-staged": ">=13.1.2",
-    "mocha": "^10.2.0",
+    "mocha": "^11.0.1",
     "npm-run-all": "^4.1.5",
     "parcel": "^2.8.3",
     "prettier": "^2.8.4",
     "process": "^0.11.10",
-    "sucrase": "^3.20.0",
+    "sucrase": "^3.35.0",
     "typescript": "^4.9.5"
   }
 }
